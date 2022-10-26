@@ -1,15 +1,15 @@
 # Nerdolas Tech
 
-<div style="display: inline_block">
-
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio)&nbsp;
 
+![nerdolascompletopng](https://user-images.githubusercontent.com/84406892/198041086-1f08591e-d408-4c3f-ae4f-12b629702903.png)
+
 ## Abstract
 
-<div align="justify">
-
 Empresa fictícia de Desenvolvimento de Software
+  
+
 
 ## Versão atual: 1.0
 
